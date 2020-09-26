@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+An experienced and senior professional with 10+ years of experience in software development and 5 years of experience in people management.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[vetalmedvedev@gmail.com.com](mailto:vetalmedvedev@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/vmedvedev/)
+[Skype: vetal.medvedev](skype:vetal.medvedev)
