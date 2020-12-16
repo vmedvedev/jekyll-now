@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-An experienced and senior professional with 10+ years of experience in software development and 5 years of experience in people management.
+An experienced and senior professional with 11+ years of experience in software development and 5 years of experience in people management.
 
 ### Contact me
 
